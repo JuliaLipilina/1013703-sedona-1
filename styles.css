@@ -11,6 +11,16 @@
        url("PT Sans.woff") format("woff");
   font-weight: 700;
   font-style: normal;
+  }
+body {
+  font-family: "PT Sans", "Arial", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
+.title {
+  font-weight: 700;
+}
+
 
 
